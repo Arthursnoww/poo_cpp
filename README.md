@@ -39,9 +39,7 @@ Este repositório contém diversas práticas de Programação Orientada a Objeto
 - `@junkfood` - Comprando comida cara e duvidosa.
 
 ### 🔹 ArrayList III - CRUD, Composição e Enum
-- `@enumeracao` - Exemplo de uso de uma classe que funciona como Enumeração.
 - `@porquinho` - Guardando moedas e itens em um cofrinho.
-- `@tarifas` - Operações de saque, depósito e extrato.
 
 ### 🔹 CRUD com Mapas e Vetores
 - `@contato` - Gerenciando telefones de um contato.
@@ -49,14 +47,9 @@ Este repositório contém diversas práticas de Programação Orientada a Objeto
 - `@agiota` - Gerencie os empréstimos do agiota.
 
 ### 🔹 Herança I
-- `@shapes` - Utilizando interface em círculos e retângulos.
-- `@estacionamento` - Cobrando o valor de carros e motos.
-- `@cofre` - Seu porquinho cresceu.
-- `@cadastro` - Crie as contas poupança e corrente.
 
-### 🔹 Linguagem C++
-- `CPP - Configuração`
-- `CPP - Introdução`
+- `@estacionamento` - Cobrando o valor de carros e motos.
+
 
 ---
 
